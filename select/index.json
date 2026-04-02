@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "I WANT YOU BACK",
+  "base_artist": "TWICE",
+  "createdAt": "2026-04-02T23:59:48.463966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/01_I_Want_You_Back_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/02_I_Want_You_Back_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Discovery",
+      "has_synced": true,
+      "path": "select/03_I_Want_You_Back_Discovery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I WANT YOU BACK",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_I_WANT_YOU_BACK_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "NSYNC",
+      "has_synced": true,
+      "path": "select/05_I_Want_You_Back_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Jackson 5",
+      "has_synced": true,
+      "path": "select/06_I_Want_You_Back_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Dynamicduo",
+      "has_synced": false,
+      "path": "select/07_I_Want_You_Back_Dynamicduo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/08_I_Want_You_Back_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I want You Back",
+      "artist": "N'Sync",
+      "has_synced": true,
+      "path": "select/09_I_want_You_Back_N'Sync.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/10_I_Want_You_Back_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/11_I_Want_You_Back_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/12_I_Want_You_Back_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/13_I_Want_You_Back_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "NSync",
+      "has_synced": true,
+      "path": "select/14_I_Want_You_Back_NSync.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/15_I_Want_You_Back_方大同.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "N'Sync",
+      "has_synced": true,
+      "path": "select/16_I_Want_You_Back_N'Sync.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/17_I_Want_You_Back_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mahalia, I Want Back My Dollar",
+      "artist": "Lord Invader & His Calypso Rhythm Boys",
+      "has_synced": false,
+      "path": "select/18_Mahalia,_I_Want_Back_My_Dollar_Lord_Invader_&_His_Calypso_Rhythm_Boys.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Want Back",
+      "artist": "Kierra Sheard",
+      "has_synced": true,
+      "path": "select/19_I_Want_Back_Kierra_Sheard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mahalia, I Want Back My Dolla",
+      "artist": "Lord Invader & His Calypso Rhy",
+      "has_synced": false,
+      "path": "select/20_Mahalia,_I_Want_Back_My_Dolla_Lord_Invader_&_His_Calypso_Rhy.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/21_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Want You Back Again",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/22_I_Want_You_Back_Again_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Want You Back Again (Alternative Version)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/23_I_Want_You_Back_Again_(Alternative_Version)_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Want You To Know",
+      "artist": "Zedd feat. Selena Gomez",
+      "has_synced": true,
+      "path": "select/24_I_Want_You_To_Know_Zedd_feat._Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Want You To Know (feat. Selena Gomez)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/25_I_Want_You_To_Know_(feat._Selena_Gomez)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Want You",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/26_I_Want_You_MØ.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Want You",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/27_I_Want_You_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Milkman feat. Curtis Peoples",
+      "has_synced": false,
+      "path": "select/28_I_Want_You_Back_Milkman_feat._Curtis_Peoples.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Want You Back",
+      "artist": "Milkman",
+      "has_synced": false,
+      "path": "select/29_I_Want_You_Back_Milkman.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I Want You Back (MAW remix)",
+      "artist": "Melanie B feat. Missy \"Misdemeanor\" Elliott",
+      "has_synced": false,
+      "path": "select/30_I_Want_You_Back_(MAW_remix)_Melanie_B_feat._Missy__Misdemeanor__Elliott.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Want You Back (feat. Missy Elliott) (MAW Remix)",
+      "artist": "Melanie B",
+      "has_synced": false,
+      "path": "select/31_I_Want_You_Back_(feat._Missy_Elliott)_(MAW_Remix)_Melanie_B.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Want You Right Now",
+      "artist": "MC5",
+      "has_synced": false,
+      "path": "select/32_I_Want_You_Right_Now_MC5.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Want You To Leave",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/33_I_Want_You_To_Leave_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I Want You To Leave",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/34_I_Want_You_To_Leave_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "I Want You To Stay",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/35_I_Want_You_To_Stay_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "I Want You (Back)",
+      "artist": "The Larks",
+      "has_synced": false,
+      "path": "select/36_I_Want_You_(Back)_The_Larks.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "I Want You So Bad",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/37_I_Want_You_So_Bad_B.B._King.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I WANT YOU BACK",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_I_WANT_YOU_BACK_TWICE.txt"
+    }
+  ]
+}
